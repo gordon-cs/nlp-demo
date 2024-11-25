@@ -22,12 +22,12 @@ Open a terminal. Type ```jupyter notebook```. A browser should open up. In the b
 
 ### 4. Install a Few Additional Packages
 
-There are a few additional packages we'll be using during the tutorial that are not included when you download Anaconda - wordcloud, textblob and gensim.
+There are a few additional packages we'll be using during the tutorial that are not included when you download Anaconda - wordcloud, textblob and gensim.  You'll also need cloudscraper.
 
 *Windows:*
-Open the Anaconda Prompt program. You should see a black window pop up. Type `conda install -c conda-forge wordcloud` to download wordcloud. You will be asked whether you want to proceed or not. Type `y` for yes. Once that is done, type `conda install -c conda-forge textblob` to download textblob and `y` to proceed, and type `conda install -c conda-forge gensim` to download gensim and `y` to proceed.
+Open the Anaconda Prompt program. You should see a black window pop up. Type `conda install -c conda-forge wordcloud` to download wordcloud. You will be asked whether you want to proceed or not. Type `y` for yes. Once that is done, type `conda install -c conda-forge textblob` to download textblob and `y` to proceed, and type `conda install -c conda-forge gensim` to download gensim and `y` to proceed.  Finally, install cloudscraper with `pip install cloudscraper`.
 
 *Mac/Linux:*
-Your terminal should already be open. Type command-t to open a new tab. Type `conda install -c conda-forge wordcloud` to download wordcloud. You will be asked whether you want to proceed or not. Type `y` for yes. Once that is done, type `conda install -c conda-forge textblob` to download textblob and `y` to proceed, and type `conda install -c conda-forge gensim` to download gensim and `y` to proceed.
+Your terminal should already be open. Type Command-T (Ctrl-T in Linux) to open a new tab. Type `conda install -c conda-forge wordcloud` to download wordcloud. You will be asked whether you want to proceed or not. Type `y` for yes. Once that is done, type `conda install -c conda-forge textblob` to download textblob and `y` to proceed, and type `conda install -c conda-forge gensim` to download gensim and `y` to proceed.  Finally, install cloudscraper with `pip install cloudscraper` (or `pip3 install cloudscraper`).
 
 If you have any issues, please email me at adashofdata@gmail.com or come talk to me before the start of the tutorial.
